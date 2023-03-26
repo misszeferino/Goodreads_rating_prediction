@@ -8,14 +8,7 @@ The objective of this project is to train a model that predicts the rating of a 
 ##### The dataset
 The dataset used for this project is a collection of books from Goodreads, which has been curated using real user information. This dataset can be found on [Kaggle](https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks).
 
-
-
-
-### Libraries Used:
-<table>
-<tbody>
-<tr>
-<td><a><img src="https://pandas.pydata.org/docs/_static/pandas.svg" alt="Pandas" align="center" width="100"/></a></td>
-<td><a><img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png" alt="Plotly" align="center" width="100"/></a></td>
-</tr>
-</tbody>
+##### Models used:
+* Linear regression
+* Decision Tree
+* Random Forest
