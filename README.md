@@ -1,4 +1,4 @@
-<img src="https://www.whplibrary.org/wp-content/uploads/2016/08/Goodreads-Logo-1024x576-7abf5bd8d98b9d10.jpg" alt="Pandas" align="center" width="100"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Goodreads_logo.svg" alt="Pandas" align="center" width="100"/>
 
 # Goodreads: Book rating prediction
 
