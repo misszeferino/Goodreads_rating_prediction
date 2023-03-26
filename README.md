@@ -1,4 +1,4 @@
-<img src="https://commons.wikimedia.org/wiki/File:Goodreads_logo.svg" alt="Pandas" align="center" width="100"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Goodreads_logo.svg" alt="Pandas" align="center" width="100"/>
 
 # Goodreads: Book rating prediction
 
